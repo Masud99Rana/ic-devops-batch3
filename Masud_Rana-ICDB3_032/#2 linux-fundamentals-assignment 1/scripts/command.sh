@@ -39,7 +39,7 @@ echo "Shell displayed."
 # FILE AND DIRECTORY OPERATIONS
 # ----------------------------------------------------------------------------
 
-# Create a directory named linux_fundamentals in your home directory
+# Create a directory named linux_fundamentals in home directory
 echo "Creating a directory named 'linux_fundamentals' in the home directory..."
 mkdir ~/linux_fundamentals
 echo "Directory created."
