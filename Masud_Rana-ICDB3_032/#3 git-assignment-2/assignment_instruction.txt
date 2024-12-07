@@ -1,0 +1,27 @@
+Git assignment - 2
+
+- Create a new directory and initialize it as a Git repository.
+- Add a README.md file to provide a brief description of the project.
+- Make an initial commit with the README.md file.
+- Push the repository to a remote repository hosting service (e.g., GitHub).
+
+- Create a new branch named feature-1.
+- Switch to the feature-1 branch.
+- Make changes to the project (e.g., add a new file or modify an existing one).
+- Commit these changes with meaningful commit messages.
+
+- Repeat the process by creating another branch named feature-2:
+- Switch back to the main branch.
+- Create and switch to the feature-2 branch.
+- Make changes and commit them with appropriate messages.
+
+- Push both feature-1 and feature-2 branches to the remote repository.
+- Create pull requests (PRs) for merging feature-1 and feature-2 into the main branch.
+- Review the changes in each PR before merging.
+- Merge the PRs sequentially to avoid conflicts.Before merging each branch, ensure the feature branch is updated with the latest changes from the main branch.Use the method instead of merge to keep the commit history linear.
+- Resolve any conflicts that arise during rebasing and re-test the branch.
+- After merging both feature branches, check the commit history in the main branch.
+- Ensure that the commit history is linear and easy to understand.
+- Delete the merged branches from both the local and remote repositories to keep the repository clean and organized.
+
+Submission: Add the commands used to accomplish the task in the README.md file. Make a final commit and submit the repository list in the class work.

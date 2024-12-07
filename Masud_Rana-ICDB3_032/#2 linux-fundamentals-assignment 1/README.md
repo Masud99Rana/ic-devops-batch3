@@ -75,6 +75,8 @@ This file contains a comprehensive list of core Linux commands with brief descri
   echo $SHELL
   ```
 
+  ![Linux Command](./screenshots/file_system.png "Viewing Linux Command")
+
 ## File and Directory Operations
 
 - **Commands**:
@@ -98,6 +100,8 @@ This file contains a comprehensive list of core Linux commands with brief descri
 
   ```
 
+  ![Linux Command](./screenshots/file_dir.png "Viewing Linux Command")
+
 ## Permissions
 
 - **Commands**:
@@ -110,6 +114,8 @@ This file contains a comprehensive list of core Linux commands with brief descri
     ls -l ~/linux_fundamentals/backup/example.txt
 
   ```
+
+  ![Linux Command](./screenshots/permission.png "Viewing Linux Command")
 
 ## File Modification
 
@@ -129,6 +135,8 @@ This file contains a comprehensive list of core Linux commands with brief descri
     ls -l ~/example.txt
 
   ```
+
+  ![Linux Command](./screenshots/file_modification.png "Viewing Linux Command")
 
 ## Ownership
 
@@ -152,9 +160,12 @@ This file contains a comprehensive list of core Linux commands with brief descri
 
   ```
 
+  ![Linux Command](./screenshots/ownership.png "Viewing Linux Command")
+
 ## User Add/Modify
 
 - **Commands**:
+
   ```bash
     # Create a new user named developer
     sudo useradd -m -d /home/developer_home -s /bin/sh developer
@@ -175,6 +186,8 @@ This file contains a comprehensive list of core Linux commands with brief descri
     # Verify changes
     id devuser
   ```
+
+  ![Linux Command](./screenshots/user_add_modify.png "Viewing Linux Command")
 
 ## Hard/Soft Link
 
@@ -210,9 +223,14 @@ This file contains a comprehensive list of core Linux commands with brief descri
 
   ```
 
+  ![Linux Command](./screenshots/soft_link.png "Viewing Linux Command")
+
+  ![Linux Command](./screenshots/hard_link.png "Viewing Linux Command")
+
 ## Package Installation
 
 - **Commands**:
+
   ```bash
     # Update repo cache
     sudo apt update
@@ -227,6 +245,8 @@ This file contains a comprehensive list of core Linux commands with brief descri
     sudo apt update && sudo apt install google-cloud-sdk
 
   ```
+
+  ![Linux Command](./screenshots/package_install1.png "Viewing Linux Command")
 
 <!-- CONTACT -->
 
