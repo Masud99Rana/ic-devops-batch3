@@ -1,0 +1,30 @@
+Docker Assignment 1
+
+100 points
+
+** Submission will be closed after deadline **
+** Deadline: 29 Jan 2025, 11:59 PM **
+** Open a pull request in your project repository and submit the link in the classroom as assignment to ensure proper review **
+** PR will be reviewed by Orfiaz Bhai **
+
+* Document all docker commands used during development, including their purpose
+* Create optimized Dockerfiles using:
+  * Multi-stage builds
+  * Layer caching optimization
+  * Minimal base images
+  * Build arguments and environment variables
+  * Security best practices
+
+* Docker Image Requirements:
+  * Build and push images to Docker Hub
+  * Tag images appropriately
+  * Document and analyze the number of layers
+  * Review image sizes
+
+* Docker Compose Best Practices:
+  * Define all services, networks, and volumes
+  * Set appropriate environment variables
+  * Implement proper service dependencies
+  * Set resource limits
+  * Define restart policies
+  * Implement health checks
